@@ -1,0 +1,9 @@
+*_/verify_*
+*_/give_*
+*_/ban_*
+*_/unban_*
+*_/createredeem_*
+*_/setlevel_*
+*_/unverify_*
+*_/restock_*
+*_/giverole_*
